@@ -1,3 +1,5 @@
 # cc3200-pwm
-pwm generation using TI CC3200
-Dr.L
+PWM generation using TI CC3200 timers
+
+Period and duty are set in mili-second
+
