@@ -26,11 +26,6 @@ void loop()
   static unsigned char i;
   unsigned long count, regVal;
   i++;
- // count = timerA2PWM.getMatchSetValue();
- // regVal = timerA2PWM.readRegister(TIMERA2_BASE,0x08);
- // Serial.print("configuration: ");
- // Serial.println(regVal);
- // delay(2000);
 }
 
 void setupPWM_Timer()
