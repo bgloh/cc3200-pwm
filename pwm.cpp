@@ -3,7 +3,7 @@
 //
 // configure the device pins for different peripheral signals
 // 6.29.2016
-// by Dr. Byoung Loh
+// 
 // function definition for pwm
 
 // Copyright (C) 2014 Texas Instruments Incorporated - http://www.ti.com/ 
